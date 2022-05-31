@@ -8,7 +8,8 @@
 
 
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<div/>
+
 ![](https://www.instagram.com/p/BhH9CBuHFE4/?igshid=YmMyMTA2M2Y=)
 
 
