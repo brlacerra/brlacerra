@@ -4,11 +4,12 @@
 💻 HTML-CSS-JS-PHP-C++ <br />
 ✎ Bruno | Bruno_striker <br />
 👤 Bruno Ferrari Lacerra <br />
-![](https://www.instagram.com/p/Ba7jZPJli4F/?taken-by=popandsicle)
+
 
 
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+![](https://www.instagram.com/p/Ba7jZPJli4F/?taken-by=popandsicle)
 
 <div>
 <a href="https://github.com/BrunoFerrariIFTM">
