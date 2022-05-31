@@ -1,11 +1,12 @@
 <h1 align="center">bruno.</h1>
+<div align="center">
 🎮 Valorant, RL, WOT <br />
 💻 HTML-CSS-JS-PHP-C++ <br />
 ✎ Bruno | Bruno_striker <br />
 👤 Bruno Ferrari Lacerra <br />
 
 
-<div align="center">
+
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
