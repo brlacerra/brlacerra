@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <div/>
 
-![](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif)
+![](https://www.instagram.com/p/BhH9CBuHFE4/?igshid=YmMyMTA2M2Y=)
 
 
 <div>
