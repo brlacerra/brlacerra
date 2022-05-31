@@ -15,6 +15,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFerrariIFTM&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFerrariIFTM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  <img src="https://media0.giphy.com/media/l1JLIJE0VXuxYRrri/giphy.gif?cid=ecf05e47qmpt72s7ubdank7vyp4mbnc4f03i3ftfe38fsudw&rid=giphy.gif&ct=g" />
+ ![](https://www.instagram.com/p/Ba7jZPJli4F/?taken-by=popandsicle)
   
  
