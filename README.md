@@ -1,4 +1,4 @@
-# bruno.
+<h1 align="center">bruno.</h1>
 🎮 Valorant, RL, WOT <br />
 💻 HTML-CSS-JS-PHP-C++ <br />
 ✎ Bruno | Bruno_striker <br />
