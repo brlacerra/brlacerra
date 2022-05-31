@@ -14,4 +14,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFerrariIFTM&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFerrariIFTM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  <iframe align="center" src="https://giphy.com/embed/l1JLIJE0VXuxYRrri" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-art-loop-l1JLIJE0VXuxYRrri">via GIPHY</a></p>
+  <iframe align="center" src="https://giphy.com/embed/l1JLIJE0VXuxYRrri" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
