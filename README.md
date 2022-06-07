@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <div/>
 
-![](https://wikiimg.tojsiabtv.com/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif)
+![](https://cm1.narvii.com/8312/4995cd7f5faf33355a90b2771945e0f22c82c6e3_00.gif)
 
 
 <div>
