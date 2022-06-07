@@ -12,7 +12,7 @@
 
 ![](https://pa1.narvii.com/7436/ddfeefdaf5cfc50b7d880279ef3a3c6a11d8aa01r4-384-480_00.gif)
 
- <img width="1840px" src="https://pa1.narvii.com/7436/ddfeefdaf5cfc50b7d880279ef3a3c6a11d8aa01r4-384-480_00.gif" />
+ <img width="2000" src="https://pa1.narvii.com/7436/ddfeefdaf5cfc50b7d880279ef3a3c6a11d8aa01r4-384-480_00.gif" />
 
 <div>
  
