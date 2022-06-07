@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <div/>
 
-![](https://pa1.narvii.com/7436/ddfeefdaf5cfc50b7d880279ef3a3c6a11d8aa01r4-3840-4800_00.gif)
+![](https://pa1.narvii.com/7436/ddfeefdaf5cfc50b7d880279ef3a3c6a11d8aa01r4-384-480_00.gif)
 
 
 <div>
