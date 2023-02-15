@@ -1,9 +1,9 @@
 <h1 align="center">bruno.</h1>
 <div align="center">
-🎮 Valorant, RL, WOT <br />
+👤 Bruno Ferrari Lacerra <br />
 💻 HTML-CSS-JS-PHP-C++ <br />
 ✎ Bruno | Bruno_striker <br />
-👤 Bruno Ferrari Lacerra <br />
+🎮 Valorant, RL <br />
 
 
 
