@@ -11,7 +11,7 @@
 <div/>
 
  <p align="center">
-<img width="250" src="https://xlncad.com/wp-content/uploads/2019/07/Digital-Rain.gif" />
+<img width="750" src="https://xlncad.com/wp-content/uploads/2019/07/Digital-Rain.gif" />
 </p>
  
 
