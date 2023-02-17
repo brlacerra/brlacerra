@@ -18,9 +18,9 @@
 </p>
  
 
-![HTML](https://img.shields.io/badge/-HTML-E0661A?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=CSS3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logo=javascript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat&logo=php&logoColor=white)&nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
 ![VS Coder](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
