@@ -7,7 +7,7 @@
 🎮 Valorant, RL <br />
 
  
-<a href="https://steamcommunity.com/profiles/76561198813776201" target="_blank"><img src="https://img.shields.io/badge/Steam-E4405F?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a><br>
+<a href="https://steamcommunity.com/profiles/76561198813776201" target="_blank"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a><br>
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
  ![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
 <div/>
