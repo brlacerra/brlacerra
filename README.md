@@ -25,6 +25,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat&logo=php&logoColor=white)&nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
 ![VS Coder](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div>
 <a href="https://github.com/futoibrunao">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futoibrunao&layout=compact&langs_count=7&theme=dracula"/>
