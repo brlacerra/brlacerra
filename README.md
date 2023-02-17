@@ -27,13 +27,15 @@
 ![PHP](https://img.shields.io/badge/PHP%20-777BB3.svg?style=for-the-badge&logo=php&logoColor=black)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![VS Coder](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+  <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
  
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div>
  
   <p align="center">
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+
 <p align="center">
 <a href="https://github.com/futoibrunao">
   <img src="https://github-readme-stats.vercel.app/api?username=futoibrunao&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"/>
