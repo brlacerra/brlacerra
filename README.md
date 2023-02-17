@@ -15,7 +15,7 @@
  ![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
 <div/>
   
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pauloh_ferrari&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pauloh_ferrari&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pauloh_ferrari&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
  <p align="center">
