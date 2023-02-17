@@ -30,7 +30,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pauloh_ferrari&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
  
 
 <div>
