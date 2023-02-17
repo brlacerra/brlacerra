@@ -9,7 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logo=javascript&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat&logo=php&logoColor=white)&nbsp;
-![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=5B0EC0&style=flat-square)&nbsp;
+![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
  
 
 
