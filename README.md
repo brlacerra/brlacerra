@@ -21,7 +21,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP%20-%777bb3.svg?style=for-the-badge&logo=php&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP%20-%777BB3.svg?style=for-the-badge&logo=php&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat&logo=php&logoColor=white)&nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
 ![VS Coder](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
