@@ -6,7 +6,6 @@
 💻 HTML-CSS-JS-PHP-C++ <br />
 ✎ Bruno | Bruno_striker <br />
 🎮 Valorant, RL <br />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
  
 
@@ -14,6 +13,8 @@
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
  ![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
 <div/>
+ 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pauloh_ferrari&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
