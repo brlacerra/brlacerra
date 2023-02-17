@@ -1,4 +1,6 @@
-<h1 align="center">bruno.</h1>
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=bruno..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</h1>
 <div align="center">
 👤 Bruno Ferrari Lacerra <br />
 💻 HTML-CSS-JS-PHP-C++ <br />
