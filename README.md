@@ -15,7 +15,7 @@
  ![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
 <div/>
   
-  <a href="https://www.youtube.com/watch?v=CKMLBzXI21w"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+ ![spotify-github-profile](/img/default.svg)
 
 
  <p align="center">
