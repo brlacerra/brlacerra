@@ -31,11 +31,9 @@
  
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div>
-  <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+ 
   <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <a href="https://github.com/futoibrunao">
   <img src="https://github-readme-stats.vercel.app/api?username=futoibrunao&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"/>
