@@ -9,7 +9,7 @@
  
 <a href="https://steamcommunity.com/profiles/76561198813776201" target="_blank"><img src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/brlacerra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
- ![profile views](https://komarev.com/ghpvc/?username=futoibrunao&color=00BFFF&style=flat-square)&nbsp;
+ ![profile views](https://komarev.com/ghpvc/?username=brlacerra&color=00BFFF&style=flat-square)&nbsp;
 <div/>
  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -36,9 +36,9 @@
   <p align="center">
 
 <p align="center">
-<a href="https://github.com/futoibrunao">
-  <img src="https://github-readme-stats.vercel.app/api?username=futoibrunao&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=futoibrunao&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"  alt="futoibrunao"/>
+<a href="https://github.com/brlacerra">
+  <img src="https://github-readme-stats.vercel.app/api?username=brlacerra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brlacerra&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"  alt="brlacerra"/>
   </a>
 </div>
  
