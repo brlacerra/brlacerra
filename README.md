@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://github.com/brlacerra">
-  <img src="https://github-readme-stats.vercel.app/api?username=brlacerra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"/>
+  /*<img src="https://github-readme-stats.vercel.app/api?username=brlacerra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"/>*/
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brlacerra&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00BFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,191970,4B0082" height="180em"  alt="brlacerra"/>
   </a>
 </div>
