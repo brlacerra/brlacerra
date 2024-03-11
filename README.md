@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=E0FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=bruno..&hearts;++;web+developer,;Love+to+explore+the+dev-verse..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=E0FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=bruno..&hearts;++;developer,;Resistance+for+the+times+to+come..."></a>
 </h1>
 <div align="center">
 👤 Bruno Ferrari Lacerra <br />
