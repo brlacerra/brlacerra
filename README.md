@@ -25,7 +25,6 @@
 ![PHP](https://img.shields.io/badge/PHP%20-777BB3.svg?style=for-the-badge&logo=php&logoColor=black)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![VS Coder](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
   
 
