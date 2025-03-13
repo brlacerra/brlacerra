@@ -4,7 +4,7 @@
 <div align="center">
 👤 Bruno Ferrari Lacerra <br />
 ✎ Bruno | Bruno_striker <br />
-🎮 Valorant, RL <br />
+🎮 CS2, MBWarband <br />
 
  
 <a href="https://steamcommunity.com/profiles/76561198813776201" target="_blank"><img src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
